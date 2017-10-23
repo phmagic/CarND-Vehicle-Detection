@@ -1,0 +1,8 @@
+vehicles/*
+vehicles.zip
+non-vehicles.zip
+non-vehicles/*
+
+.idea/*
+.ipynb_checkpoints/*
+__pycache__/*
